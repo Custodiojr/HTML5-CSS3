@@ -1,0 +1,13 @@
+1-Instalar o Git e o Github
+2- Abrir o Github
+2.1 Abrir => File => options => Accounts
+ => sign in ( pra o Github.com) 
+ => fazer o login =>teras os repositorios
+
+IMPORTANTE:
+ Ativar o Git
+
+file=> options => Git => save
+
+Por ultimo Clona o repositorio que quiser
+ 
