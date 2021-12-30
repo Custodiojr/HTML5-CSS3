@@ -1,4 +1,4 @@
-   height: 100vh;
+      height: 100vh;
           background-color: black;  
           background-image: url('imagens/wallpaper002.jpg');
           background-position: center top;
@@ -6,3 +6,5 @@
           /*background-size: 100% 100%;*/
           background-size: cover;
           /*background-size: contain;*/
+          /* Para ajustar a tela de fundo com o centeudo*/
+          background-attachment: fixed;

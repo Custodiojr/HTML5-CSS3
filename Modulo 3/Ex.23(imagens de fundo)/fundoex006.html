@@ -8,21 +8,28 @@
     <style>
         body{
             height: 100vh;
-          background-color: black;  
+          /*background-color: black;  
           background-image: url('imagens/wallpaper002.jpg');
           background-position: center top;
-          background-repeat: repeat-y;
-          /*background-size: 100% 100%;*/
+          background-repeat: no-repeat;
+          background-size: 100% 100%;
           background-size: cover;
-          /*background-size: contain;*/
-          /* Para ajustar a tela de fundo com o centeudo*/
+          background-size: contain;
+          Para ajustar a tela de fundo com o centeudo
           background-attachment: fixed;
+
+           Shorthand - background
+          color > image > position > repeat > [size]> 
+           attachment */
+
+           background: black url('imagens/wallpaper002.jpg') center center no-repeat fixed;
+           background-size: cover;
 
 
         }
         main{
             background-color: white;
-            max-width: 700px;
+            max-width: 400px;
             padding: 10px;
             margin: auto;
             border: 1px solid darkblue;
